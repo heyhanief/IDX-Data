@@ -2,7 +2,7 @@
 
 
 ## Stock 🌏
-* [Ticker Universe] (https://www.idx.co.id/id/data-pasar/data-saham/daftar-saham) - Saham semesta (universe) yang digunakan dalam proses pemilihan konstituen indeks
+* Ticker Universe (https://www.idx.co.id/id/data-pasar/data-saham/daftar-saham) - Saham semesta (universe) yang digunakan dalam proses pemilihan konstituen indeks
 
 Last Update: 2025/12/16
 
