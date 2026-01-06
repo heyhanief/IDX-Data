@@ -2,7 +2,7 @@
 
 
 ## Stock 🌏
-* Universe - Saham semesta (universe) yang digunakan dalam proses pemilihan konstituen indeks
+* Universe - The stock universe used in the index constituent selection process.
 
 * https://www.idx.co.id/id/data-pasar/data-saham/daftar-saham
 Last Update: 2025/12/16
