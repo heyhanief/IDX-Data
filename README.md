@@ -7,7 +7,7 @@
 * https://www.idx.co.id/id/data-pasar/data-saham/daftar-saham
 Last Update: 2025/12/16
 
-## Indeks
+## Index
 * IDX 80 - An index that measures the stock price performance of 80 stocks with relatively large market capitalization, high liquidity, and good fundamentals.
 * Kompas 100 - An index that measures the stock price performance of 100 stocks with relatively large market capitalization, high liquidity, and good fundamentals. KOMPAS100 is a jointly developed index with Kompas Gramedia Group, an Indonesia media corporation
 
